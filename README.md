@@ -14,11 +14,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
   </div>
-
-  <h2>🌍 Links</h2>
-  <ul>
-    <li><a href="https://github.com/wdartora"> GitHub</a></li>
-    <li><a href="https://wdartora.github.io/">CV</a></li>
-  </ul>
-</body>
-</html>
