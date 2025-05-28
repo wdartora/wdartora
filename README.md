@@ -1,16 +1,24 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>William Dartora </title>
+</head>
+<body>
+  <p>Biostats | PhD in Epidemiology | Specialization in Multiomics</p>
 
-<!--
-**wdartora/wdartora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h2>🔧 Tech Stack</h2>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>🌍 Links</h2>
+  <ul>
+    <li><a href="https://github.com/wdartora">Meu GitHub</a></li>
+    <li><a href="https://wdartora.github.io/">CV</a></li>
+  </ul>
+</body>
+</html>
