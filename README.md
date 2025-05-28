@@ -17,7 +17,7 @@
 
   <h2>🌍 Links</h2>
   <ul>
-    <li><a href="https://github.com/wdartora">Meu GitHub</a></li>
+    <li><a href="https://github.com/wdartora"> GitHub</a></li>
     <li><a href="https://wdartora.github.io/">CV</a></li>
   </ul>
 </body>
