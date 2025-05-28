@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>William Dartora </title>
+  <h1>William Dartora </h1>
 </head>
 <body>
   <p>Biostats | PhD in Epidemiology | Specialization in Multiomics</p>
